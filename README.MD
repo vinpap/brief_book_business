@@ -10,6 +10,6 @@ Vous y trouverez également les notebooks suivants :
 - markov_chains_TP, un notebook qui explique le fonctionnement des chaînes de Markov
 - estimation_avancee_immo, un notebook d'entraînement autour de l'algèbre linéaire.
 
-Pour lancer un notebook, il suffit d'ouvrir une console dans le dossier où est enregistré le repository et de taper jupyter-notebook <nom du notebook>. Alternativement, vous pouvez aussi faire un clic-droit sur les notebooks et les ouvrir avec Jupyter.
+Pour lancer un notebook, il suffit d'ouvrir une console dans le dossier où est enregistré le repository et de taper jupyter-notebook "nom du notebook". Alternativement, vous pouvez aussi faire un clic-droit sur les notebooks et les ouvrir avec Jupyter.
 
 Bonne lecture !
